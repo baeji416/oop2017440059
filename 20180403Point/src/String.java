@@ -9,7 +9,7 @@ public class String {
 		 
 		String str1= new String("Hello"); 
 		String str2= new String("Hello"); 
-		str1.equals(str2); 
+		//str1.equals(str2); 
 		boolean a= str1==str2; 
 		System.out.println(a); 
 	
