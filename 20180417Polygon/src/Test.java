@@ -11,6 +11,5 @@ public class Test {
 		rec.width=3.0;
 		System.out.println(rec.area());
 		
-		new polygon();
 }
 }
