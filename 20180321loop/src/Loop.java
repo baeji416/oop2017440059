@@ -28,7 +28,7 @@ public class Loop {
 		 for(i=0; i<str.length(); i++) {
 			 if(str.charAt(i) !='l')
 				 continue;//continue= 조건식으로 가는것
-			
+			count++;
 		 }
 		 System.out.println("문장에서 발견한 1의 갯수" + count);
 		 
